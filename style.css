@@ -1,0 +1,39 @@
+.pic {
+    border-radius: 200px;
+    
+        width: 380px;
+    }
+    .bt {
+        background-color: #282c34;
+        min-height: 50%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        
+        color: white;
+    }
+    .card-body{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-top: 15%;
+    margin-right: auto;
+    }
+    .card-text{
+    
+    color: rgb(51, 255, 0);
+    
+    }
+    
+    body{
+    
+    background-image: url("/GettyImages-538096543_medium.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
